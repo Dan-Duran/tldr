@@ -183,4 +183,10 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE). 
 
 ---
 
+## Security Note / Disclaimer
+
+While this script only fetches raw HTML and parses text, you should exercise caution when summarizing content from unknown or potentially malicious sources. The script does not execute code from the fetched content, but downloading and handling untrusted material always carries risk. The author assumes no responsibility for any security issues, damages, or liabilities resulting from the use of this script against harmful URLs.
+
+---
+
 **Enjoy** your bullet-free, disclaimer-free, two-pass TL;DR Summarizer! If you have any questions, open an issue or reach out. Happy summarizing!
